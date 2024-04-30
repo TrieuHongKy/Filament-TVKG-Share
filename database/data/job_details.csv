@@ -1,0 +1,51 @@
+﻿job_id,title,description,address
+1,Lập trình viên,"Tạo và phát triển phần mềm, ứng dụng hoặc trang web sử dụng các ngôn ngữ lập trình.",Cần Thơ
+2,Kế toán,"Theo dõi và quản lý tài chính, báo cáo tài chính, và thực hiện các nhiệm vụ liên quan đến số liệu tài chính.",Cần Thơ
+3,Quản lý dự án,"Dẫn dắt và quản lý các dự án, đảm bảo tiến độ và chất lượng của dự án.",Cần Thơ
+4,Kỹ sư phần mềm,"Phát triển và kiểm tra phần mềm, thực hiện việc lập trình và giải quyết vấn đề kỹ thuật.",Cần Thơ
+5,Chuyên viên tài chính,"Cung cấp tư vấn về tài chính cá nhân hoặc doanh nghiệp, quản lý đầu tư và thực hiện kế hoạch tài chính.",Cần Thơ
+6,Nhân viên kinh doanh,"Tìm kiếm cơ hội kinh doanh, xây dựng mối quan hệ với khách hàng và thúc đẩy doanh số bán hàng.",Vĩnh Long
+7,Quản lý sản phẩm,"Quản lý việc phát triển và quảng bá sản phẩm hoặc dịch vụ, đảm bảo rằng chúng đáp ứng nhu cầu thị trường.",Vĩnh Long
+8,Kỹ sư điện tử,"Thiết kế, sửa chữa và bảo trì hệ thống điện tử và linh kiện",Vĩnh Long
+9,Chuyên gia tiếp thị,Cung cấp hỗ trợ kỹ thuật cho khách hàng hoặc đồng nghiệp về sản phẩm hoặc dịch vụ.,Vĩnh Long
+10,Chuyên viên hỗ trợ kỹ thuật,Cung cấp hỗ trợ kỹ thuật cho khách hàng hoặc đồng nghiệp về sản phẩm hoặc dịch vụ.,Thới Long
+11,Quản lý nhân sự,"Quản lý và phát triển nguồn nhân lực, quản lý các hoạt động liên quan đến nhân sự trong tổ chức.",Thới Long
+12,Chuyên gia bất động sản,"Môi giới bất động sản, quản lý tài sản bất động sản hoặc phân tích thị trường bất động sản.",Thới Long
+13,Chuyên gia phân tích dữ liệu,"Thu thập, phân tích và trình bày dữ liệu để hỗ trợ quyết định kinh doanh.",Thới Long
+14,Quản lý tiếp thị,"Quản lý chiến dịch tiếp thị, quảng cáo và thương hiệu của công ty.",Thới Long
+15,Kỹ sư cơ khí,"Thiết kế, phát triển và kiểm tra các sản phẩm cơ khí.",Thới Long
+16,Quản lý bán hàng,"Quản lý đội ngũ bán hàng, xây dựng chiến lược bán hàng và đảm bảo đạt được mục tiêu doanh số.",Sóc Trăng
+17,Chuyên viên quảng cáo,Tạo và quản lý chiến dịch quảng cáo trực tuyến và ngoại trời.,Sóc Trăng
+18,Chuyên viên quản lý chất lượng,Đảm bảo chất lượng sản phẩm hoặc dịch vụ theo tiêu chuẩn quy định.,Sóc Trăng
+19,Chuyên gia tư vấn,"Cung cấp tư vấn chuyên môn trong một lĩnh vực cụ thể, chẳng hạn như tư vấn tài chính, tư vấn luật sư, tư vấn tâm lý, và nhiều lĩnh vực khác.",Sóc Trăng
+20,Kỹ sư xây dựng,"Thiết kế và quản lý các công trình xây dựng như tòa nhà, cầu đường và hệ thống cơ sở hạ tầng.",Sóc Trăng
+21,Chuyên gia tư vấn tài chính,"Cung cấp tư vấn về quản lý tài chính, đầu tư và kế hoạch tài chính cá nhân hoặc doanh nghiệp.",Long Xuyên
+22,Nhân viên hỗ trợ khách hàng,"Giúp khách hàng giải quyết vấn đề, cung cấp thông tin và hỗ trợ liên quan đến sản phẩm hoặc dịch vụ.",Long Xuyên
+23,Quản lý sản xuất,Quản lý các hoạt động sản xuất và quy trình sản xuất trong doanh nghiệp.,Long Xuyên
+24,Chuyên viên tư vấn sức khỏe,Cung cấp tư vấn và hỗ trợ về sức khỏe cho cá nhân hoặc cộng đồng.,Long Xuyên
+25,Chuyên viên bảo mật thông tin,Bảo vệ thông tin quan trọng của tổ chức khỏi các mối đe dọa mạng và thất thoát dữ liệu.,Long Xuyên
+26,Chuyên gia quản lý dự án IT,Quản lý và triển khai các dự án công nghệ thông tin.,An Giang
+27,Kỹ thuật viên mạng,Quản lý và duy trì hệ thống mạng máy tính.,An Giang
+28,Chuyên viên quản lý chuỗi cung ứng,"Quản lý hoạt động chuỗi cung ứng, từ sản xuất đến phân phối.",An Giang
+29,Chuyên gia quản lý rủi ro,Đánh giá và quản lý các rủi ro tiềm ẩn trong hoạt động kinh doanh.,An Giang
+30,Kỹ sư môi trường,"Quản lý và giám sát vấn đề liên quan đến môi trường, như bảo vệ tài nguyên tự nhiên và tuân thủ quy định môi trường.",An Giang
+31,Chuyên viên phát triển ứng dụng di động,Phát triển ứng dụng di động cho các hệ điều hành di động như iOS và Android.,An Giang
+32,Chuyên gia quản lý sản phẩm IT,"Quản lý sản phẩm công nghệ thông tin, đảm bảo tính đúng giờ và chất lượng của sản phẩm.",Tây Ninh
+33,Chuyên viên nghiên cứu thị trường,Tiến hành nghiên cứu thị trường để hiểu nhu cầu và mong muốn của khách hàng.,Tây Ninh
+34,Kỹ sư điện,Thiết kế và quản lý hệ thống điện và điện tử.,Tây Ninh
+35,Chuyên viên quản lý dự án xây dựng,"Quản lý các dự án xây dựng, từ việc thiết kế đến triển khai và hoàn thành.",Tây Ninh
+36,Quản lý quan hệ khách hàng,"Xây dựng và duy trì mối quan hệ với khách hàng, đảm bảo họ hài lòng với sản phẩm hoặc dịch vụ của bạn.",Tây Ninh
+37,Kỹ sư phần cứng,"Thiết kế, phát triển và kiểm tra các linh kiện phần cứng điện tử.",Tây Ninh
+38,Chuyên gia quản lý chất lượng sản phẩm,Đảm bảo chất lượng sản phẩm theo tiêu chuẩn và yêu cầu của khách hàng.,Tây Ninh
+39,Chuyên viên phân tích tài chính,Phân tích dữ liệu tài chính và tạo báo cáo tài chính.,Cà Mau
+40,Chuyên viên quản lý chuỗi cung ứng,Quản lý và tối ưu hóa chuỗi cung ứng để đảm bảo sự liên tục và hiệu quả của quy trình cung cấp.,Cà Mau
+41,Chuyên gia phân tích dữ liệu kinh doanh,Phân tích dữ liệu kinh doanh để đưa ra quyết định chiến lược.,Cà Mau
+42,Chuyên viên tư vấn hệ thống,Cung cấp tư vấn và hỗ trợ về hệ thống và công nghệ thông tin.,Cà Mau
+43,Kỹ thuật viên phần mềm,"Phát triển, triển khai và bảo trì phần mềm máy tính.",Cà Mau
+44,Quản lý sản xuất nông nghiệp,Quản lý hoạt động sản xuất trong lĩnh vực nông nghiệp và chăn nuôi.,Cà Mau
+45,Chuyên viên quản lý dự án xây dựng,"Quản lý dự án xây dựng, đảm bảo tuân thủ tiến độ và chất lượng công trình.",Bạc Liêu
+46,Nhân viên nguồn nhân lực,"Quản lý quy trình tuyển dụng, nhân sự và phát triển nguồn nhân lực trong tổ chức.",Bạc Liêu
+47,Kỹ sư điều khiển tự động,Thiết kế và điều khiển các hệ thống tự động hóa trong sản xuất và công nghiệp.,Bạc Liêu
+48,Chuyên gia quản lý dự án xây dựng cầu đường,"Quản lý các dự án xây dựng cầu đường, từ thiết kế đến xây dựng.",Bạc Liêu
+49,Chuyên viên tư vấn phát triển kỹ thuật,Cung cấp tư vấn về phát triển kỹ thuật và công nghệ cho các dự án.,Bạc Liêu
+50,Quản lý quan hệ công chúng,"Xây dựng và quản lý mối quan hệ với công chúng, đảm bảo danh tiếng tích cực cho tổ chức hoặc cá nhân.",Bạc Liêu

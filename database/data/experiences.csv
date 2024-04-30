@@ -1,0 +1,7 @@
+﻿id,name,slug,is_active,
+1,Kinh nghiệm dưới 1 năm,kinh-nghiem-duoi-1-nam,FALSE,
+2,Kinh nghiệm trên 1 năm,kinh-nghiem-tren-1-nam,TRUE,
+3,Kinh nghiệm trên 2 năm,kinh-nghiem-tren-2-nam,TRUE,
+4,Kinh nghiệm trên 3 năm,kinh-nghiem-tren-3-nam,TRUE,
+5,Kinh nghiệm trên 4 năm,kinh-nghiem-tren-4-nam,TRUE,
+6,Kinh nghiệm trên 5 năm,kinh-nghiem-tren-5-nam,TRUE,

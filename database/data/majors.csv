@@ -1,0 +1,101 @@
+﻿id,name,slug,short_name,published_at
+1,Lập trình viên PHP,lap-trinh-vien-php,ltvphp,2023/11/29 2:55:14
+2,Lập trình viên Java,lap-trinh-vien-java,ltvjava,2023/11/29  2:55:14
+3,Quản lý sản phảm,quan-ly-san-pham,qlspham,2023/11/29  2:55:14
+4,Kỹ sư phần mềm,ky-su-phan-mem,kspmem,2023/11/29  2:55:14
+5,Nhân viên kinh doanh,nhan-vien-kinh-doanh,nvkdoanh,2023/11/29  2:55:14
+6,Chuyên viên tài chính it,chuyen-vien-tai-chinh,cvtcit,2023/11/29  2:55:14
+7,Chuyên viên tiếp thị,chuyen-vien-tiep-thi,cvtthi,2023/11/29  2:55:14
+8,Quản lý dự án,quan-ly-du-an,qldan,2023/11/29  2:55:14
+9,Chuyên viên nguồn nhân lực,chuyen-vien-nguon-nhan-luc,cvnluc,2023/11/29  2:55:14
+10,Chuyên viên hỗ trợ kỹ thuật,chuyen-vien-ho-tro-ky-thuat,cvkthuat,2023/11/29  2:55:14
+11,Lập trình viên Python,lap-trinh-vien-python,ltvpython,2023/11/29  2:55:14
+12,Lập trình viên C++,lap-trinh-vien-c-plus-plus,ltvplus,2023/11/29  2:55:14
+13,Qu?n lý marketing,quan-ly-marketing,qllmkt,2023/11/29  2:55:14
+14,Chuyên viên tài chính,chuyen-vien-tai-chinh,cvtchinh,2023/11/29  2:55:14
+15,Chuyên viên quảng cáo truyền hình,chuyen-vien-quang-cao-truyen-hinh,cvthinh,2023/11/29  2:55:14
+16,Lập trình viên JavaScript,lap-trinh-vien-javascript,ltvjs,2023/11/29  2:55:14
+17,Lập trình viên Ruby,lap-trinh-vien-ruby,ltvruby,2023/11/29  2:55:14
+18,Kiến trúc sư,kien-truc-su,kttsu,2023/11/29  2:55:14
+19,Kỹ sư cơ khí,ky-su-co-khi,ksckhi,2023/11/29  2:55:14
+20,Chuyên viên tài chính tổ chức,chuyen-vien-tai-chinh-ca-nhan,cvcnhan,2023/11/29  2:55:14
+21,Nhân viên kế toán,nhan-vien-ke-toan,nvktoan,2023/11/29  2:55:14
+22,Chuyên viên phân tích dữ liệu,chuyen-vien-phan-tich-du-lieu,cvdlieu,2023/11/29  2:55:14
+23,Chuyên viên quản lý dự án IT,chuyen-vien-quan-ly-du-an-it,cváit,2023/11/29  2:55:14
+24,Lập trình viên Android,lap-trinh-vien-android,ltvandroid,2023/11/29  2:55:14
+25,Lập trình viên iOS,lap-trinh-vien-ios,ltvios,2023/11/29  2:55:14
+26,Chuyên viên quản lý sự kiện,chuyen-vien-quan-ly-su-kien,cvqlskien,2023/11/29  2:55:14
+27,Chuyên viên hỗ trợ khách hàng,chuyen-vien-ho-tro-khach-hang,cvkhang,2023/11/29  2:55:14
+28,Nhân viên tư vấn tuyển dụng,nhan-vien-tu-van-tuyen-dung,nvtdung,2023/11/29  2:55:14
+29,Kỹ sư xây dựng,ky-su-xay-dung,ksxdung,2023/11/29  2:55:14
+30,Lập trình viên Front-end,lap-trinh-vien-front-end,ltvend,2023/11/29  2:55:14
+31,Lập trình viên Back-end,lap-trinh-vien-back-end,ltvbend,2023/11/29  2:55:14
+32,Chuyên viên quảng cáo trực tuyến,chuyen-vien-quang-cao-truc-tuyen,cvttuyen,2023/11/29  2:55:14
+33,Chuyên viên phân tích kinh doanh,chuyen-vien-phan-tich-kinh-doanh,cvptkdoanh,2023/11/29  2:55:14
+34,Quản lý sản xuất,quan-ly-san-xuat,qlsxuat,2023/11/29  2:55:14
+35,Chuyên viên tài chính doanh nghiệp,chuyen-vien-tai-chinh-doanh-nghiep,cvdnghiep,2023/11/29  2:55:14
+36,Lập trình viên C#,lap-trinh-vien-c-sharp,ltvsharp,2023/11/29  2:55:14
+37,Chuyên viên bất đọng sản,chuyen-vien-bat-dong-san,cv?san,2023/11/29  2:55:14
+38,Kỹ sư điện,ky-su-dien,kssdien,2023/11/29  2:55:14
+39,Chuyên viên quản lý dự án xây dựng,chuyen-vien-quan-ly-du-an-xay-dung,cvqldaxd,2023/11/29  2:55:14
+40,Chuyên viên phân tích dữ liệu hệ thống,chuyen-vien-phan-tich-du-lieu,cvdlhthong,2023/11/29  2:55:14
+41,Lập trình viên SQL,lap-trinh-vien-sql,ltvsql,2023/11/29  2:55:14
+42,Chuyên viên quản trị mạng,chuyen-vien-quan-tri-mang,cvtmang,2023/11/29  2:55:14
+43,Lập trình viên Full-stack,lap-trinh-vien-full-stack,ltvstack,2023/11/29  2:55:14
+44,Chuyên viên truyền thông xã hội,chuyen-vien-truyen-thong-xa-hoi,cvxhoi,2023/11/29  2:55:14
+45,Chuyên viên tài chính cá nhân,chuyen-vien-tai-chinh-ca-nhan,cvtccnhan,2023/11/29  2:55:14
+46,Nhân viên kế toán thuế,nhan-vien-ke-toan-thue,nvtthue,2023/11/29  2:55:14
+47,Chuyên viên tiếp thị số,chuyen-vien-tiep-thi-so,cvtso,2023/11/29  2:55:14
+48,Lập trình viên Unity,lap-trinh-vien-unity,ltvunity,2023/11/29  2:55:14
+49,Chuyên viên quản trị dự án phần mềm,chuyen-vien-quan-tri-du-an-phan-mem,cvpmem,2023/11/29  2:55:14
+50,Chuyên viên tư vấn luật sư,chuyen-vien-tu-van-luat-su,cvlsu,2023/11/29  2:55:14
+51,Thợ sửa máy tính,tho-sua-may-tinh,tsmtinh,
+52,Chuyên viên bảo mật thông tin,chuyen-vien-bao-mat-thong-tin,cvttin,
+53,Lập trình viên.NET,lap-trinh-vien-dot-net,lttnet,
+54,Chuyên viên quản lý nhân sự,chuyen-vien-quan-ly-nhan-su,cvnsu,
+55,Chuyên viên tư vấn tài chính,chuyen-vien-tu-van-tai-chinh,cvtvtchinh,
+56,Chuyên viên hỗ trợ kỹ thuật máy tính,chuyen-vien-ho-tro-ky-thuat-may-tinh,cvmtinh,
+57,Kiến trúc sư nội thất,kien-truc-su-noi-that,ktnthat,
+58,Chuyên viên kỹ thuật điện tử,chuyen-vien-ky-thuat-dien-tu,cvktdtu,
+59,Lập trình viên game,lap-trinh-vien-game,ltvgame,
+60,Lập trình viên Swift,lap-trinh-vien-swift,ltvswift,
+61,Nhân viên bán hàng,nhan-vien-ban-hang,nvbhang,
+62,Lập trình viên Vue,lap-trinh-vien-ruby-on-rails,ltvvue,
+63,Chuyên viên tiếng Anh,chuyen-vien-tieng-anh,cvtanh,
+64,Chuyên viên quản lý sự kiện trường,chuyen-vien-quan-ly-su-kien,cvskien,
+65,Chuyên viên chăm sóc sứcc khỏe,chuyen-vien-cham-soc-suc-khoe,cvskhoe,
+66,Chuyên viên quản trị dự án xây dựng,chuyen-vien-quan-tri-du-an-xay-dung,cvxdung,
+67,Lập trình viên Java Spring,lap-trinh-vien-java-spring,ltJspring,
+68,Chuyên viên quản trị hệ thống,chuyen-vien-quan-tri-he-thong,cvhthong,
+69,Chuyên viên bán hàng online,chuyen-vien-ban-hang-online,cvhonline,
+70,Lập trình viên React,lap-trinh-vien-react,ltvreact,
+71,Chuyên viên tư vấn tài sản,chuyen-vien-tu-van-tai-san,cvtsan,
+72,Chuyên viên tiếng Trung,chuyen-vien-tieng-trung,cvttrung,
+73,Quản lý sản xuất thực phẩm,quan-ly-san-xuat-thuc-pham,qltpham,
+74,Lập trình viên .NET Core,lap-trinh-vien-dot-net-core,lt.core,
+75,Chuyên viên quản lý dự án tiếng Anh,chuyen-vien-quan-ly-du-an-tieng-anh,cvqldatanh,
+76,Lập trình viên Python Django,lap-trinh-vien-python-django,ltPdjango,
+77,Chuyên viên chăm sóc khách hàng dự án,chuyen-vien-cham-soc-khach-hang-du-an,cvdan,
+78,Chuyên viên thiết kế đồ họa,chuyen-vien-thiet-ke-do-hoa,cvtkdhoa,
+79,Chuyên viên bất động sản thương mại,chuyen-vien-bat-dong-san-thuong-mai,cvtmai,
+80,Chuyên viên tiếp thị nội dung,chuyen-vien-tiep-thi-noi-dung,cvndung,
+81,Nhân viên quảng cáo trực tuyến,nhan-vien-quang-cao-truc-tuyen,nvttuyen,
+82,Lập trình viên Node.js,lap-trinh-vien-node-js,ltvnjs,
+83,Chuyên viên quản trị dự án xây dựng cầu,chuyen-vien-quan-tri-du-an-xay-dung-cau,cvdcau,
+84,Chuyên viên quản trị dự án tiếng Trung,chuyen-vien-quan-tri-du-an-tieng-trung,cvqtdatt,
+85,Chuyên viên phân tích dữ liệu kinh doanh,chuyen-vien-phan-tich-du-lieu-kinh-doanh,cvkdoanh,
+86,Chuyên viên tư vấn du học,chuyen-vien-tu-van-du-hoc,cvdhoc,
+87,Quản lý sản xuất điện tử,quan-ly-san-xuat-dien-tu,qlsxdtu,
+88,Lập trình viên PHP Laravel,lap-trinh-vien-php-laravel,ltPlaravel,
+89,Lập trình viên Java Enterprise Edition (EE),lap-trinh-vien-java-enterprise-edition-ee,ltEee,
+90,Chuyên viên quản lý dự án xây dựng nhà,chuyen-vien-quan-ly-du-an-xay-dung-nha,cvdnha,
+91,Chuyên viên phân tích dữ liệu tài chính,chuyen-vien-phan-tich-du-lieu-tai-chinh,cvptdltc,
+92,Chuyên viên tư vấn dinh dưỡng,chuyen-vien-tu-van-dinh-duong,cvdduong,
+93,Nhân viên tư vấn đầu tư,nhan-vien-tu-van-dau-tu,nvtvdtu,
+94,Chuyên viên bảo hiểm,chuyen-vien-bao-hiem,cvbhiem,
+95,Quản lý chất lượng sản phẩm,quan-ly-chat-luong-san-pham,qlclspham,
+96,Chuyên viên quản lý dự án y tế,chuyen-vien-quan-ly-du-an-y-te,cvyte,
+97,Lập trình viên Ruby on Rails,lap-trinh-vien-ruby-on-rails,ltorails,
+98,Chuyên viên quản lý dự án môi trường,chuyen-vien-quan-ly-du-an-moi-truong,cvmtruong,
+99,Nhân viên bán hàng thời trang,nhan-vien-ban-hang-thoi-trang,nvttrang,
+100,Chuyên viên quản lý dự án năng lượng tái tạo,chuyen-vien-quan-ly-du-an-nang-luong-tai-tao,cvttao,
